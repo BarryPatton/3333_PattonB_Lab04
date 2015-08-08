@@ -1,0 +1,27 @@
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.exe.config
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.exe
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.pdb
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.csprojResolveAssemblyReference.cache
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\_3333_PattonB_Lab04.Form1.resources
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\_3333_PattonB_Lab04.Properties.Resources.resources
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.csproj.GenerateResource.Cache
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.exe
+P:\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.pdb
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.exe.config
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.exe
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.pdb
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.exe
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.pdb
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.csprojResolveAssemblyReference.cache
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\_3333_PattonB_Lab04.Form1.resources
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\_3333_PattonB_Lab04.Properties.Resources.resources
+G:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.csproj.GenerateResource.Cache
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.exe.config
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.exe
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.pdb
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.exe
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\bin\Debug\3333_PattonB_Lab04.pdb
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.csprojResolveAssemblyReference.cache
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\_3333_PattonB_Lab04.Form1.resources
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\_3333_PattonB_Lab04.Properties.Resources.resources
+H:\School Files\C# Programming (Spring 2015)\Labs\3333_PattonB_Lab04\3333_PattonB_Lab04\obj\Debug\3333_PattonB_Lab04.csproj.GenerateResource.Cache
