@@ -7,6 +7,7 @@
  * conversion exceptions using the TryParse method as well as input validation using if statements. The program will display 
  * amount of the discount formatted as currency, the total amount of the purchase after the discount formatted as currency, 
  * the discount percent formatted as a percent, and the total amount before the discount formatted as currency.
+ * I just published this on GitHub.
  */
 
 using System;
